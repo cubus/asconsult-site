@@ -45,9 +45,9 @@
                                 <li>
                                     <a href="#team">Echipa</a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="#testimonials">Clienți</a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a href="#contact">Contact</a>
                                 </li>
@@ -74,7 +74,7 @@
                             </div>
                             <div class="col-sm-4 col-sm-offset-0 col-xs-8 col-xs-offset-2">
                                 <p class="color-ccc">
-                                    AS CONSULT este o companie sibiană care activează din anul 2004 pe piața serviciilor de contabilitate și consultanță economico-financiară și fiscală.  Societatea AS CONSULT este membră <span class="color"><a href="http://ceccar.ro">CECCAR</a></span> și membră a <span class="color"><a href="http://www.ccfiscali.ro/">Camerei Consultantilor Fiscali din România.</a>
+                                    AS CONSULT este o companie sibiană care activează din anul 2004 pe piața serviciilor de contabilitate și consultanță economico-financiară și fiscală.  Societatea AS CONSULT este membră <span class="color"><a href="http://ceccar.ro">CECCAR</a></span>, membră a Grupului Experților Judiciari și a <span class="color"><a href="http://www.ccfiscali.ro/">Camerei Consultantilor Fiscali din România</a>
                                 </p>
                             </div>
                         </div>
@@ -153,23 +153,44 @@
             <div class="row">
                 <!-- .profile -->
                 <div class="col-md-3 profile">
-                    <a class="img" href="#">
-                        <figure class="circle">
-                            <img alt="" src="http://placehold.it/220x220">
-                        </figure>
-                    </a>
-                    <h3>Liviana</h3>
-                    <h5>Asociat, Expert Contabil bla</h5>
+                    <h3>Annamaria Nicolau</h3>
+                    <h5>Asociat, Administrator</h5>
+                    <h5>Expert contabil, consultant fiscal, expert judiciar</h5>
+                    <a class="a-email" href="mailto:liviana@asconsult.ro">liviana@asconsult.ro</a><br>
+                    <a href="tel:0040722552001">0722 552 001</a><br>
                 </div>
                 <!-- .profile -->
                 <div class="col-md-3 profile">
-                    <a class="img" href="#">
-                        <figure class="circle">
-                            <img alt="" src="http://placehold.it/220x220">
-                        </figure>
-                    </a>
-                    <h3>Bla</h3>
-                    <h5>Bla bla</h5>
+                    <h3>Emilia David</h3>
+                    <h5>Asociat, Administrator</h5>
+                    <h5>Expert contabil, expert judiciar</h5>
+                    <a class="a-email" href="mailto:emilia@asconsult.ro">emilia@asconsult.ro</a><br>
+                    <a href="tel:0040745765783">0745 765 783</a><br>
+                    <a href="tel:0040723285945">0723 285 945</a>
+                </div>
+
+                <br>
+
+                <!-- .profile -->
+                <div class="col-md-3 profile">
+                    <h3>Floarea Tomescu</h3>
+                    <h5>Economist</h5>
+                    <a href="tel:0040752088620">0752 088 620</a><br>
+                </div>
+
+                <!-- .profile -->
+                <div class="col-md-3 profile">
+                    <h3>Mara Luca</h3>
+                    <h5>Consilier economic</h5>
+                    <a href="tel:0040752088620">0752 088 620</a><br>
+                </div>
+
+                <!-- .profile -->
+                <div class="col-md-3 profile">
+                    <h3>Ramona Pop</h3>
+                    <h5>Economist</h5>
+                    <a href="tel:0040752088620">0752 088 620</a><br>
+                    <a class="a-email" href="mailto:asconsultmail@gmail.com">asconsultmail@gmail.com</a><br>
                 </div>
 
             </div>
@@ -177,7 +198,7 @@
         <!-- /.container -->
 
         <!-- CONTAINER -->
-        <span id="testimonials">
+<!--         <span id="testimonials">
         <div class="slider highlight text-center oneslider">
             <ul data-auto="true">
                 <li>
@@ -198,7 +219,7 @@
                         </div>
                     </div>
                 </li>
-            </ul>
+            </ul> -->
             <div class="slidebar">
                 <a href="#" class="arrow prev">
                     <i class="custom-icon custom-icon-arrow-prev"></i>
