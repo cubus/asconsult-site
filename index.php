@@ -233,7 +233,7 @@
         <!-- /.container -->
 
         <!-- CONTAINER: Logos -->
-        <div class="container slider logos text-center" id="clients-slider">
+<!--         <div class="container slider logos text-center" id="clients-slider">
             <div class="row">
                 <ul>
                     <li><a href="clients_1.html"><img src="http://placehold.it/200x110&text=sigla-ue-sau-client" alt=""></a></li>
@@ -243,7 +243,7 @@
                 </ul>
             </div>
         </div>
-        <!-- /.container -->
+ -->        <!-- /.container -->
 
 
         <!-- CONTACT-form -->
